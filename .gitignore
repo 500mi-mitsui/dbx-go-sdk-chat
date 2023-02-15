@@ -1,0 +1,10 @@
+.idea
+logs
+go_build_main_go.exe
+vendor
+config.yaml
+test/config.yaml
+metadata_json
+.DS_Store
+image
+.idea/workspace.xml
